@@ -1,5 +1,5 @@
-# ChatGPT: Your Python Coach. 
-## Mastering the Essentials in 100 Prompts.
+# ChatGPT: Your Python Coach
+## Mastering the Essentials in 100 Prompts
 
 Welcome to the companion site for "ChatGPT: Your Python Coach" by Sergio Rojas-Galeano. 
 

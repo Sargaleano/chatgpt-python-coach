@@ -9,6 +9,6 @@ Get ready to embark on an exhilarating journey into the world of programming and
 
 The guide has been carefully conceived and curated to help you navigate the fundamentals of Python programming effortlessly. From variables and data types to conditionals, loops, containers like lists and dictionaries, and modularisation techniques like functions and classes, you'll master the basics of this popular language. 
 
-Inside this repository, you'll find a collection of Jupyter Notebooks featuring the Python code examples from the book. They are conveniently organized by chapter in the \textit{code} folder.
+Inside this repository, you'll find a collection of Jupyter Notebooks featuring the Python code examples from the book. They are conveniently organized by chapter in the `code` folder.
 
 Get ready to tackle exciting challenges that put your newfound skills to the test. Happy coding!

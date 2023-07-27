@@ -11,4 +11,4 @@ The guide has been carefully conceived and curated to help you navigate the fund
 
 Inside this repository, you'll find a collection of Jupyter Notebooks featuring the Python code examples from the book. They are conveniently organised by chapter in the `code` folder.
 
-Get ready to tackle exciting challenges that put your newfound skills to the test. Happy coding!
+You are about to discover exciting challenges that put your newfound skills to the test. Happy coding!
